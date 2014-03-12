@@ -34,6 +34,8 @@ public class Test {
 		System.out.println(problem2.getMaxWorkingTime(figure2));
 		System.out.println(problem2.getMaxWorkingTime(figure3));
 		
+		
+		
 	}
 
 }
